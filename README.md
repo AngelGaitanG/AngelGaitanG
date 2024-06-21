@@ -1,4 +1,4 @@
-# 👋 Hola, soy Angel Gaitan
+# 👋 Hola, soy Angel Gabriel Gaitan
 
 ### 🚀 Sobre mí
 Soy un apasionado del desarrollo web y la tecnología, con un interés particular en aprender nuevos lenguajes de programación. Desde mi infancia, siempre me ha fascinado cómo funcionan los videojuegos, lo que me llevó a explorar el mundo de la programación.
