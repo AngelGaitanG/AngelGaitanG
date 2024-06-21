@@ -11,8 +11,8 @@ Tengo experiencia trabajando en proyectos de desarrollo web full stack, utilizan
 
 ### 🔧 Tecnologías y Herramientas
 - **Frontend**: Angular, React, HTML, CSS, JavaScript
-- **Backend**: NestJS, Node.js, Express.js
-- **Base de Datos**: PostgreSQL, MySQL
+- **Backend**: NestJS, Node.js, Express.js, TypeScript
+- **Base de Datos**: PostgreSQL, MySQL, MongoDB
 - **Otros**: Git, Docker, REST APIs
 
 ### 💞️ Proyectos Colaborativos
