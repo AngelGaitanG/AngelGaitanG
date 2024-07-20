@@ -20,7 +20,7 @@ Estoy buscando colaborar en proyectos de desarrollo web full stack, especialment
 
 ### 📫 Cómo contactarme
 - **Correo Electrónico**: angel.gaitan.ev@gmail.com
-- **LinkedIn**: [Angel Gaitan](https://www.linkedin.com/in/angel-gaitan-0515262b6/)
+- **LinkedIn**: [Angel Gaitan](https://www.linkedin.com/in/angelgabrielgaitan/)
 
 ### 😄 Pronombres
 He/Him
