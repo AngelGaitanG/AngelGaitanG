@@ -29,4 +29,4 @@ He/Him
 Comencé a aprender sobre programación debido a mi fascinación infantil con el funcionamiento de los videojuegos. Esta curiosidad inicial se ha convertido en una pasión por crear soluciones innovadoras y eficientes a través del código.
 
 ### 📄 Currículum
-Puedes consultar mi currículum completo [aquí](https://drive.google.com/file/d/1Dl3sfUftvfJXOQrZlLpKPtUa21qVoi6o/view?usp=sharing)
+Puedes consultar mi currículum completo [aquí](https://drive.google.com/file/d/19RMNOYfDkWkVy575BehRD2sSIUz8KiIF/view?usp=sharing)
